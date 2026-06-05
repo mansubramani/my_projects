@@ -1,0 +1,4 @@
+print("hello world")
+print("welcome chennai")
+print(10+20)
+print('Thank you..!')
